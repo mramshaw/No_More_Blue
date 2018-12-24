@@ -80,7 +80,7 @@ The following are some examples of colour styles:
 
 ![Seaborn Deep](images/seaborn-deep.png)
 
-[A nice variationon the Colorblind scheme.]
+[A nice variation on the Colorblind scheme but the green is still hard to read.]
 
 ## Reference
 
@@ -91,6 +91,10 @@ Matplotlib style gallery:
 Seaborn:
 
     http://seaborn.pydata.org/tutorial.html
+
+## To Do
+
+- [ ] Investigate creating a scheme with an easier-to-scan green
 
 ## Credits
 
