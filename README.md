@@ -13,7 +13,7 @@ all of the available `matplotlib` colour schemes, allowing you to choose a pleas
 [There may well be ___more___ colour schemes available - but not yet installed.]
 
 Of course there is also [seaborn](http://seaborn.pydata.org/) - but that may be overkill
-for many use cases. Even so, we will install it so its colo9ur schemes are available.
+for many use cases. Even so, we will install it so its colour schemes are available.
 
 ## Prerequisites
 
@@ -66,19 +66,19 @@ The following are some examples of colour styles:
 
 #### Classic
 
-![Classic](#images/classic.png)
+![Classic](images/classic.png)
 
 [Probably a good default choice for most uses, although I think the green is hard to read.]
 
 #### Seaborn Colorblind
 
-![Seaborn Colorblind](#images/seaborn-colorblind.png)
+![Seaborn Colorblind](images/seaborn-colorblind.png)
 
 [Probably a better default choice for most uses, although I the green is still hard to read.]
 
 #### Seaborn Deep
 
-![Seaborn Deep](#images/seaborn-deep.png)
+![Seaborn Deep](images/seaborn-deep.png)
 
 [A nice variationon the Colorblind scheme.]
 
