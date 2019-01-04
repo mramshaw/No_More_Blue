@@ -74,7 +74,7 @@ The following are some examples of colour styles:
 
 ![Seaborn Colorblind](images/seaborn-colorblind.png)
 
-[Probably a better default choice for most uses, although I the green is still hard to read.]
+[Probably a better default choice for most uses, although the green is hard to scan.]
 
 #### Seaborn Deep
 
